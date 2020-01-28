@@ -2,11 +2,11 @@
 
 ### Week 1 Independent Project, 1.27.2020
 
-### Created by Lisa Garvey##
+### Created by Lisa Garvey
 
 ### Project Description
 
-This website creates an initial design for **Sylvia Beach** (1887-1962) as a way to expose the world to the special place she created in 1919.
+This website creates an initial design for **Sylvia Beach** (1887-1962) as a way to expose readers to the special place she created in 1919.
 
 ### SetUp
 
